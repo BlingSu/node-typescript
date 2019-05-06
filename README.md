@@ -16,7 +16,8 @@ mpm run test
 npm run lint
 ```
 
-``` Build
+## Build
+```
 docker build . 
 ```
 
